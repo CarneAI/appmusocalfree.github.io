@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VibeStudio - Gestor Musical",
+  "description": "Una plataforma integral para gestionar tu carrera musical. Crea bandas, diseña álbumes con portadas personalizadas y sube pistas para construir tu discografía. Incluye asistencia creativa de Gemini para nombres de bandas y conceptos de álbumes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
